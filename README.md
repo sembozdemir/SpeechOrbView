@@ -29,6 +29,7 @@ dependencies {
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
 ```
+You can give width and height to get bigger SpeechOrbView. But, SpeechOrbView will be always square even though you give width and height differently.
 
 #### In your activity or fragment, if you want to toggle animation of SpeechOrbView when clicking, do like that below
 
@@ -81,6 +82,8 @@ speechOrbView.setListener(new SpeechOrbView.Listener() {
     }
 });
 ```
+
+###You can check sample project for better understanding as well.
 
 
 ## Licence
