@@ -1,6 +1,8 @@
 # SpeechOrbView
 A custom view that animates like voice search button in Android TV
 
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-SpeechOrbView-green.svg?style=true)](https://android-arsenal.com/details/1/2941)
+
 ### Screenshots
 
 <img src="http://imgreview.com/i/gVMtl" height="384" width="216"</img> <img src="http://imgreview.com/i/gVMtm" height="384" width="216"</img> <img src="http://imgreview.com/i/gVMtn" height="384" width="216"</img>
