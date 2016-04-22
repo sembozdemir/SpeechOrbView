@@ -5,7 +5,7 @@ A custom view that animates like voice search button in Android TV
 
 ### Screenshots
 
-<img src="http://imgreview.com/i/gVMtl" height="384" width="216"</img> <img src="http://imgreview.com/i/gVMtm" height="384" width="216"</img> <img src="http://imgreview.com/i/gVMtn" height="384" width="216"</img>
+<img src="speechorbview.gif" height="384" width="216"</img>
 
 ## How to add
 SpeechOrbView is published with [JitPack.io](https://jitpack.io).
